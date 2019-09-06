@@ -17,7 +17,7 @@ pyLDAvis
 #### and a Report  
 
 
-## Detailed steps are explained in each .ipynb notebooks  
+## Detailed steps are explained in each .ipynb notebooks and in Report  
 
 
 
