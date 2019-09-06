@@ -13,7 +13,7 @@ pyLDAvis
 ### This repository consist of 3 .ipynb notebooks  
 #### Recommendation by plot,title  
 #### Recommendation by Genres  
-#### LDA(Topic modelling)  
+#### Bonus task -1 LDA(Topic modelling)  
 #### and a Report  
 
 
