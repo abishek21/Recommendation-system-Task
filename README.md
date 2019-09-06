@@ -17,6 +17,10 @@ pyLDAvis
 #### and a Report  
 
 
+## Detailed steps are explained in each jupyter notebooks  
+
+
+
 
 
 
