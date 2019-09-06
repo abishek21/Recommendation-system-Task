@@ -11,13 +11,13 @@ gensim
 pyLDAvis  
 
 ### This repository consist of 3 .ipynb notebooks  
-#### Recommendation by plot,title  
-#### Recommendation by Genres  
-#### Bonus task -1 LDA(Topic modelling)  
+#### 1.)Recommendation by plot,title  
+#### 2.)Recommendation by Genres  
+#### 3.)Bonus task -1 LDA(Topic modelling)  
 #### and a Report  
 
 
-## Detailed steps are explained in each jupyter notebooks  
+## Detailed steps are explained in each .ipynb notebooks  
 
 
 
